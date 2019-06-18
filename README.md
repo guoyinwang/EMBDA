@@ -1,5 +1,5 @@
 # EMBeddings with Domain Awareness (EMBDA)
-This repository contains source code necessary to reproduce the results presented in the paper [Learning Word Embeddings with Domain Awareness](https://arxiv.org/pdf/1805.04174.pdf).
+This repository contains source code necessary to reproduce the results presented in the paper [Learning Word Embeddings with Domain Awareness](https://arxiv.org/abs/1906.03249).
 
 The code is extended from origin [word2vec repository](https://github.com/tmikolov/word2vec). For more information about the origin word2vec algorith and code base requirement, please refer to [word2vec](https://code.google.com/archive/p/word2vec/).
 
